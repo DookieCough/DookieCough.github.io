@@ -1,2 +1,0 @@
-# DookieCough.github.io
-.JS
